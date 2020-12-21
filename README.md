@@ -1,5 +1,5 @@
 # moviesapp_flutter
 
 In this repository i demostrate how to implement the bloc patter in flutter project using bloc lib. i use TMDB rest api, for demostration.
-State Managment using bloc lib
+State Managment using bloc lib and 
 Dependency Injection
